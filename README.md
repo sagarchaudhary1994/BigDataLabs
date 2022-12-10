@@ -1,4 +1,4 @@
-# BigDataLabs
+# Big Data Labs
 ## Open Terminal and execute the codes below
 
 HDFS is the primary or major component of the Hadoop ecosystem which is responsible for storing large data sets of structured or unstructured data across various nodes and thereby maintaining the metadata in the form of log files.
